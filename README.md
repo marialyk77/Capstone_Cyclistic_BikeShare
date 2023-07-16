@@ -21,3 +21,5 @@ Business task / stakeholders’ expectations:
 
 Research objective:
 o	To draw accurate conclusions on how subscribers and casual riders use Cyclistic bikes differently?
+
+Power BI file is available under link: 
