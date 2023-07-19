@@ -8,8 +8,7 @@ The company provides customers with flexible pricing plans, including options su
 A.	single ride passes 
 B.	full-day passes 
 C.	annual memberships (subscribers) 
-Customers who opt for the single-ride passes or full-day passes are categorized as casual riders, while those who choose the annual membership are referred to as members. The company offers bikes that cater to a wide range of people's needs, including standard two-wheeled bikes, reclining bikes, hand tricycles, and cargo bikes. reclining bikes, hand tricycles, and cargo bikes
-Based on the current data, 70% of the customers use Cyclistic bikes for leisure, while 30% of the riders use them for daily commuting to work. People with disabilities make up 8% of the customers. 
+Customers who opt for the single-ride passes or full-day passes are categorized as casual riders, while those who choose the annual membership are referred to as members. The company offers bikes that cater to a wide range of people's needs, including standard two-wheeled bikes, reclining bikes, hand tricycles, and cargo bikes. reclining bikes, hand tricycles, and cargo bikes.
 
 Stakeholders: 
 o	Liliy Moreno: Director of marketing, responsible for organizing campaigns that will generate a steady stream of revenue for the company. 
