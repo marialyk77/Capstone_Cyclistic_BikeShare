@@ -20,6 +20,6 @@ Business task / stakeholders’ expectations:
 -	The strategy is to establish a more loyal customer base by converting casual riders into annual members.  
 
 Research objective:
-o	To draw accurate conclusions on how subscribers and casual riders use Cyclistic bikes differently?
+To draw accurate conclusions on how subscribers and casual riders use Cyclistic bikes differently?
 
 Power BI file is available under link: https://drive.google.com/drive/folders/1xDn_E8ygkNPn_P5qtgs19Db_vDpwe9EA?usp=drive_link 
